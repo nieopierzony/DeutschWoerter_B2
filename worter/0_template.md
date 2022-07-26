@@ -2,6 +2,7 @@
 
 - [Pons]()
 - [Duden]()
+- [DWDS]()
 
 ## Definition
 
