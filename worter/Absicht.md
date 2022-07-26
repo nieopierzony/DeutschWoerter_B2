@@ -39,7 +39,7 @@ Gedanke
 
 - das lag nicht nicht in meiner Absicht (das wollte ich nicht)
 
-- sie trägt sich mit der Absicht ([gehoben](./gehoben.md); [beabsichtigt](./beabsichtigen.md)) zu verreisen
+- sie trägt sich mit der Absicht ([gehoben](./gehoben.md); beabsichtigt zu verreisen
 
 - mit Absicht (absichtlich, [vorsätzlich](./vorsaetzlich.md), [willentlich](./willentlich.md))
 
