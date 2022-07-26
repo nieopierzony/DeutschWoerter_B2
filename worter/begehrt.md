@@ -28,3 +28,8 @@ attraktiv, beliebt, gefragt, geschätzt
 - dieser Preis, Titel gehört zu den **begehrtesten** der Welt (viele möchten ihn gern gewinnen)
 
 - Die Termine in dem ukrainischen Botschaft in Deutschland sind sehr **begehrt** aufgrund der großer Menge von Flüchtlinge, wo manche davon irgendwelche Probleme mit Dokumenten haben.
+
+## Wendungen
+
+- heiß begehrt
+  - Die meisten von ihnen wären in den achtziger Jahren noch heißbegehrt gewesen.
