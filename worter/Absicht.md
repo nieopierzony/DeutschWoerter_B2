@@ -2,6 +2,7 @@
 
 - [Pons](https://de.pons.com/%C3%BCbersetzung/deutsch-als-fremdsprache/absicht)
 - [Duden](https://www.duden.de/rechtschreibung/Absicht)
+- [DWDS](https://www.dwds.de/wb/Absicht)
 
 ## Definition
 
