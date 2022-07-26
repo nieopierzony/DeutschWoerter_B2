@@ -1,6 +1,6 @@
 # Absicht, die
 
-- [Pons](https://de.pons.com/%C3%BCbersetzung/deutsch-russisch/Absicht)
+- [Pons](https://de.pons.com/%C3%BCbersetzung/deutsch-als-fremdsprache/absicht)
 - [Duden](https://www.duden.de/rechtschreibung/Absicht)
 
 ## Definition
